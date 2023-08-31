@@ -22,7 +22,7 @@ The bookdown package is an open-source R package that facilitates writing books 
 
 * Statistical Inference via Data Science by Chester Ismay and Albert Y. Kim **https://moderndive.com/**
 
-  <img src="https://github.com/ParthaPRay/Bookdown/assets/1689639/4afecea8-5b6f-44bf-8b2e-bf95e98d6445" width="150" height="100">
+  <img src="https://github.com/ParthaPRay/Bookdown/assets/1689639/4afecea8-5b6f-44bf-8b2e-bf95e98d6445" width="150" height="200">
 
 * R Programming for Data Science by Roger D. Peng [https://bookdown.org/rdpeng/rprogdatascience/](url)
 
