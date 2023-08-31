@@ -13,3 +13,8 @@ The bookdown package is an open-source R package that facilitates writing books 
 
 
 ![image](https://github.com/ParthaPRay/Bookdown/assets/1689639/4b432233-69ab-460a-9a22-491e0f4ed42b)
+
+
+# Featured Book
+
+* Physical Processes in Ecosystems [(https://bookdown.org/huckley/Physical_Processes_In_Ecosystems/)]
